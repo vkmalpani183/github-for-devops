@@ -1,4 +1,3 @@
-this is my second file 13.05
-new line added in second.txt
+i`this is my second file 13.05
 commit withou stage
 this is additional line
