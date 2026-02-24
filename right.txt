@@ -1,2 +1,3 @@
 bug
 modification in right
+commit withou stage
