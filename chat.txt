@@ -1,1 +1,2 @@
 chat function
+password: newone
