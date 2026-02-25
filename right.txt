@@ -1,3 +1,4 @@
 bug
+new line 2
 modification in right
 commit withou stage
