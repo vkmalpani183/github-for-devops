@@ -1,4 +1,8 @@
 bug
 new line 2
-modification in right
+modificatio
+
+checking 
+
+n in right
 commit withou stage
